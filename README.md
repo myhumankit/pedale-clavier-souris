@@ -1,7 +1,7 @@
 # Pédale clavier souris
 Une pédale qui simule l'appui sur une touche de clavier ou sur la souris.
 
-![featured_image](images/mhk_logotype.png)
+![featured_image](images/pedale-clavier-souris.jpg)
 
 ## Liens
  * [documentation du projet](https://docs.humanlab.me/myhumankit/pedale-clavier-souris)
