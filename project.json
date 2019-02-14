@@ -10,7 +10,7 @@
         },
         "links": [
             {
-                "url": "https://dev.humanlab.me/projet/pedale-clavier-souris/",
+                "url": "https://rennes.humanlab.me/projet/pedale-clavier-souris/",
                 "title": "page d'accueil du projet sur le GesLab",
                 "fa5_icon": "fas fa-home"
             },
@@ -19,7 +19,6 @@
                 "title": "page wiki du projet sur le wiki du Humanlab",
                 "fa5_icon": "fab fa-wikipedia-w"
             },
-
             {
                 "url": "https://github.com/myhumankit/pedale-clavier-souris",
                 "title": "code source de la documentation sur GitHub",
