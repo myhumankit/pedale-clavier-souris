@@ -5,7 +5,7 @@ Une pédale qui simule l'appui sur une touche de clavier ou sur la souris.
 
 ## Liens
  * [documentation du projet](https://docs.humanlab.me/myhumankit/pedale-clavier-souris)
- * [page d'accueil du projet sur le GesLab](https://dev.humanlab.me/projet/pedale-clavier-souris/)
+ * [page d'accueil du projet sur le GesLab](https://rennes.humanlab.me/projet/pedale-clavier-souris/)
  * [page wiki du projet sur le wiki du Humanlab](http://wikilab.myhumankit.org/index.php?title=Projets:Pedale_clavier_souris)
 
 
@@ -44,7 +44,7 @@ Ce projet est diffusé sous la licence MIT. Voir le fichier [LICENSE](LICENSE) p
 
 ## Links
  * [Documentation page of the project](https://docs.humanlab.me/myhumankit/pedale-clavier-souris)
- * [Home page of the project on GesLab](https://dev.humanlab.me/projet/pedale-clavier-souris/)
+ * [Home page of the project on GesLab](https://rennes.humanlab.me/projet/pedale-clavier-souris/)
  * [Page of the project on the wiki of the Humanlab](http://wikilab.myhumankit.org/index.php?title=Projets:Pedale_clavier_souris)
 
 
