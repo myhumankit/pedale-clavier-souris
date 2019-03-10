@@ -4,33 +4,39 @@
         "slug": "pedale-clavier-souris",
         "short_description": "Une pédale qui simule l'appui sur une touche de clavier ou sur la souris.",
         "lang": "fr",
-        "version": "0.1.0",
-        "featured_image": {
-            "url": "images/pedale-clavier-souris.jpg"
-        },
+        "license": "CC BY",
+        "about": "Une pédale qui simule l'appui sur une touche de clavier ou sur la souris.",
+        "featured_images": [
+            {
+                "image": {
+                    "url": "images/pedale-clavier-souris.jpg",
+                    "caption": "Pédale clavier souris"
+                }
+            }
+        ],
         "links": [
             {
                 "url": "https://rennes.humanlab.me/projet/pedale-clavier-souris/",
-                "title": "page d'accueil du projet sur le GesLab",
+                "text": "page d'accueil du projet sur le GesLab",
                 "fa5_icon": "fas fa-home"
             },
             {
                 "url": "http://wikilab.myhumankit.org/index.php?title=Projets:Pedale_clavier_souris",
-                "title": "page wiki du projet sur le wiki du Humanlab",
+                "text": "page wiki du projet sur le wiki du Humanlab",
                 "fa5_icon": "fab fa-wikipedia-w"
             },
             {
                 "url": "https://github.com/myhumankit/pedale-clavier-souris",
-                "title": "code source de la documentation sur GitHub",
+                "text": "code source de la documentation sur GitHub",
                 "fa5_icon": "fab fa-github"
             }
         ],
         "contributors": [
             {
                 "full_name": "Julien Lebunetel",
+                "role": "Fabmanager référent",
                 "email": "julien@myhumankit.org",
-                "github_username": "jlebunetel",
-                "role": "Fabmanager référent"
+                "github_username": "jlebunetel"
             }
         ]
     }
