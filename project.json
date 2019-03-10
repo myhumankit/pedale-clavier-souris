@@ -5,7 +5,7 @@
         "short_description": "Une pédale qui simule l'appui sur une touche de clavier ou sur la souris.",
         "lang": "fr",
         "license": "CC BY",
-        "about": "Une pédale qui simule l'appui sur une touche de clavier ou sur la souris.",
+        "about": "De nombreux logiciels, notamment en CAO, requièrent l'utilisation des deux mains : l'une pour manier la souris et l'autre pour presser simultanément des touches du clavier. Par exemple avec FreeCAD, pour déplacer une pièce dans l'espace, il faut cliquer sur la molette tout en maintenant la touche Shift enfoncée. Lorsqu'on n'a qu'une main disponible, c'est tout de suite plus compliqué. C'est ainsi qu'est née l'idée d'utiliser les pieds pour dessiner !\\n\\nLe dispositif présenté ici permet de brancher deux pédales doubles et d'assigner à chaque bouton une action sur le clavier ou la souris. Pour exemple, nous ne brancherons qu'une pédale double à laquelle nous assignerons les touches Ctrl et Shift, mais rien de vous empêche d'en ajouter une deuxième et d'y assigner n'importe quelle action au clavier ou à la souris.",
         "featured_images": [
             {
                 "image": {
@@ -37,6 +37,43 @@
                 "role": "Fabmanager référent",
                 "email": "julien@myhumankit.org",
                 "github_username": "jlebunetel"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Découpe laser du boitier",
+                "duration": 300,
+                "content": ""
+            },
+            {
+                "title": "Assemblage du boitier",
+                "duration": 300,
+                "content": ""
+            },
+            {
+                "title": "Réalisation du shield de connexion",
+                "duration": 300,
+                "content": ""
+            },
+            {
+                "title": "Montage du shield sur la carte électronique",
+                "duration": 300,
+                "content": ""
+            },
+            {
+                "title": "Montage de l'électronique dans le boitier",
+                "duration": 300,
+                "content": ""
+            },
+            {
+                "title": "Téléchargement du logiciel",
+                "duration": 300,
+                "content": ""
+            },
+            {
+                "title": "Connexion d'une pédale double",
+                "duration": 300,
+                "content": ""
             }
         ]
     }
